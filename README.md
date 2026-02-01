@@ -1,8 +1,9 @@
-# Title: Explainable Probabilistic Modeling for Credit Default Prediction Using Heterogeneous Financial Features
+# Title: Data-Driven Credit Risk Modelling for Financial Decision-Making
+
 
 Team Members:
-Aayush Kumar
-Sanchit Panwar
+Aayush Kumar,
+Sanchit Panwar,
 Saksham Raj
 
 Guide: Dr. Surbhi Saraswat
